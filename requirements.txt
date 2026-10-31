@@ -1,0 +1,7 @@
+torch>=2.0
+numpy
+scipy
+nibabel
+pyyaml
+scikit-image
+matplotlib
