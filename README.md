@@ -35,7 +35,7 @@ and LungMend adds it back (green).
 ## Installation
 
 ```bash
-git clone https://github.com/<user>/LungMend.git
+git clone https://github.com/noureddinekhiati/LungMend.git
 cd LungMend
 pip install -r requirements.txt
 ```
