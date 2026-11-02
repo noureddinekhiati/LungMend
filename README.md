@@ -202,7 +202,7 @@ torchrun --nproc_per_node=$NGPU train_ldm.py --config configs/ldm_stage2_medial.
 ```bibtex
 @inproceedings{lungmend2027,
   title     = {LungMend: A Healthy-Only Latent Diffusion Shape Prior for Lung Mask Correction in Severe Tuberculosis CT},
-  booktitle = {IEEE International Symposium on Biomedical Imaging (ISBI)},
+  booktitle = {Submitted at ISBI 2027},
   year      = {2027},
   note      = {Submitted}
 }
