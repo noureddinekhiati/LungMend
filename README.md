@@ -105,7 +105,6 @@ alone (union of their five lobe labels).
 | TotalSegmentator (lobes) | 0.919 | 4.29 | 24.7 | 0.738 | 0.986 | 0.870 | 0.951 | 0.723 |
 | VISTA3D (MONAI, lobes) | 0.847 | 7.61 | 38.8 | 0.572 | 0.990 | 0.754 | 0.726 | 0.364 |
 | Post-DAE | 0.767 | 11.87 | 36.5 | 0.146 | 0.747 | 0.804 | 0.968 | 0.942 |
-| 3D U-Net (R231 + bone + CT) | 0.932 | 4.04 | 22.1 | 0.824 | 0.983 | 0.899 | 0.957 | 0.791 |
 | **LungMend (ours)** | **0.986** | **0.57** | **5.5** | **0.939** | 0.983 | **0.989** | **0.993** | **0.981** |
 
 Cavity and consolidation recall: fraction of the DeepPulmoTB cavity (label 3) and consolidation (label 1) pixels, restricted to
